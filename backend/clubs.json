@@ -1,0 +1,273 @@
+{
+  "clubs"  :[ {
+        "name": "Club X",
+        "address": "123 Main St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] ,
+        "artist": "DJ A",
+        "entry_charges": 500
+},
+{ 
+        "name": "Club Y",
+        "address": "456 Oak St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ B",
+        "entry_charges": 700
+    },
+ {
+        "name": "Club Z",
+        "address": "789 Maple St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ C",
+        "entry_charges": 1000
+    } , 
+ {
+        "name": "Club X",
+        "address": "123 Main St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ A",
+        "entry_charges": 500
+    },
+ {
+        "name": "Club Y",
+        "address": "456 Oak St, Bangalore",
+        "city" : "Bengaluru" ,  
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ B",
+        "entry_charges": 700
+    },
+ {
+        "name": "Club Z",
+        "address": "789 Maple St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ C",
+        "entry_charges": 1000
+    },
+ {
+        "name": "Club X",
+        "address": "123 Main St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ A",
+        "entry_charges": 500
+    },
+ {
+        "name": "Club Y",
+        "address": "456 Oak St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ B",
+        "entry_charges": 700
+    },
+ {
+        "name": "Club Z",
+        "address": "789 Maple St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ C",
+        "entry_charges": 1000
+    },
+     {
+        "name": "Club X",
+        "address": "123 Main St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ A",
+        "entry_charges": 500
+    },
+     {
+        "name": "Club Y",
+        "address": "456 Oak St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ B",
+        "entry_charges": 700
+    },
+     {
+        "name": "Club Z",
+        "address": "789 Maple St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ C",
+        "entry_charges": 1000
+    },
+     {
+        "name": "Club X",
+        "address": "123 Main St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ A",
+        "entry_charges": 500
+    },
+     {
+        "name": "Club Y",
+        "address": "456 Oak St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ B",
+        "entry_charges": 700
+    },
+     {
+        "name": "Club Z",
+        "address": "789 Maple St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ C",
+        "entry_charges": 1000
+    },
+     {
+        "name": "Club X",
+        "address": "123 Main St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ A",
+        "entry_charges": 500
+    },
+     {
+        "name": "Club Y",
+        "address": "456 Oak St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ B",
+        "entry_charges": 700
+    },
+     {
+        "name": "Club Z",
+        "address": "789 Maple St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ C",
+        "entry_charges": 1000
+    },
+     {
+        "name": "Club X",
+        "address": "123 Main St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ A",
+        "entry_charges": 500
+    },
+     {
+        "name": "Club Y",
+        "address": "456 Oak St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ B",
+        "entry_charges": 700
+    },
+     {
+        "name": "Club Z",
+        "address": "789 Maple St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ C",
+        "entry_charges": 1000
+    },
+     {
+        "name": "Club X",
+        "address": "123 Main St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ A",
+        "entry_charges": 500
+    },
+     {
+        "name": "Club Y",
+        "address": "456 Oak St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ B",
+        "entry_charges": 700
+    },
+     {
+        "name": "Club Z",
+        "address": "789 Maple St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ C",
+        "entry_charges": 1000
+    },
+     {
+        "name": "Club X",
+        "address": "123 Main St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ A",
+        "entry_charges": 500
+    },
+     {
+        "name": "Club Y",
+        "address": "456 Oak St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ B",
+        "entry_charges": 700
+    },
+     {
+        "name": "Club Z",
+        "address": "789 Maple St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ C",
+        "entry_charges": 1000
+    },
+     {
+        "name": "Club X",
+        "address": "123 Main St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ A",
+        "entry_charges": 500
+    },
+     {
+        "name": "Club Y",
+        "address": "456 Oak St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ B",
+        "entry_charges": 700
+    },
+     {
+        "name": "Club Z",
+        "address": "789 Maple St, Bangalore",
+        "city" : "Bengaluru" , 
+        "availability" : 20 ,
+        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
+        "artist": "DJ C",
+        "entry_charges": 1000
+    }
+]}
+
