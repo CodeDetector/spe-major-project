@@ -1,7 +1,8 @@
-const axios = require('axios')
+import axios from 'axios'
 import React, { useEffect, useState } from 'react';
 import './BookingForm.css';
 import { useNavigate, useParams , useLocation, redirect } from 'react-router-dom';
+
 
 
 function BookingForm() {
