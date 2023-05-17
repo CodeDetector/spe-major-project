@@ -11,10 +11,10 @@ pipeline {
         stage('Build'){
             steps{
                 dir('server'){
-                    bat 'C:\Program Files (x86)\Yarn\bin start'
+                    bat 'yarn start'
                 }
                 dir('party-owl'){
-                    bat 'C:\Program Files (x86)\Yarn\bin start'
+                    bat 'yarn start'
                 }
             }
         }
