@@ -11,6 +11,7 @@ pipeline {
         stage('Build'){
             steps{
                 dir('server'){
+                    bat "npm install -g yarn"
                     bat 'yarn start'
                 }
                 dir('party-owl'){
