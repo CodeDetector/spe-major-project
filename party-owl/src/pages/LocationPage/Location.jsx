@@ -48,7 +48,7 @@ const Location = ()=>{
                   <CarouselComp images = {locData.images}/>
                   <EventDetail data = {locData}/> 
           </div>    
-          <div style = {{ marginTop : '15%'}}>
+          <div style = {{ marginTop : '30%'}}>
           <LocationTabs description={locData.description} venue={locData.Venue} offers={locData.offers} contact={locData.contact}/>
           </div>    
               

@@ -26,7 +26,7 @@ const EventText = ({heading , subheading}) => {
     )
 }
 const EventDetail = ({data}) =>{
-    var details = "08-10-2001"
+    var details = "05-18-2023"
     var moment_date = moment(details) 
 
     return(
@@ -35,7 +35,7 @@ const EventDetail = ({data}) =>{
                 <DateView moment_date = {moment_date}/> 
             </div>
             <div style = {{height : "70%" , width : "100%" , margin : "0px" ,padding : "0px"}}>
-                <EventText heading="Biggest IPL Screening In The City!!!" subheading="Multiple Days 07:00 PM - Skygarden Bengaluru · Krishnarajapura · Bangalore"/> 
+                <EventText heading="Biggest IPL Screening In The City!!!" subheading={data.address}/> 
             </div>
         </div>
     )

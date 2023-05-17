@@ -33,7 +33,7 @@ function BookingForm() {
   } ,[] )
   
   useEffect(()=> {
-    if(bookingStatus == true ) 
+    if(bookingStatus === true ) 
     {
       axios.post(`${uri}location/update` , {
         params : {

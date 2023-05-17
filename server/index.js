@@ -1,6 +1,8 @@
 const express = require('express');
 const app = express();
 const cors = require("cors");
+// const logger = require("./logger");
+
 console.log("App listen at port 5000");
 app.use(express.json());
 app.use(cors());
@@ -14,6 +16,7 @@ mongoose.Promise = global.Promise;
 
 const connectionString = "mongodb://mongo:27017/party-owl-db";
 
+// const connectionString = "mongodb://127.0.0.1:27017/party-owl-db"
 mongoose.connect(connectionString , {useNewUrlParser  : true});
 
 let conn = mongoose.connection 
