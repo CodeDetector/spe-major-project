@@ -1,6 +1,6 @@
 pipeline { 
     agent any 
-
+    tools {nodejs "node"}
     stages{
         stage('Pull Git'){
             steps{
@@ -12,9 +12,11 @@ pipeline {
             steps{
                 nodejs('Node@16'){
                     dir('server'){
+                        bat 'npm install'
                         bat 'npm run-script build'
                     }
                     dir('party-owl'){
+                        bat 'npm install'
                         bat 'npm run-script build'
                 }
                 }
