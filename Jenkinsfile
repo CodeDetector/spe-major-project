@@ -13,11 +13,11 @@ pipeline {
                 nodejs('Node@16'){
                     dir('server'){
                         bat 'yarn install'
-                        bat 'yarn build'
+                        bat 'yarn run-script build'
                     }
                     dir('party-owl'){
-                        bat 'npm install'
-                        bat 'npm run-script build'
+                        bat 'yarn install'
+                        bat 'yarn run-script build'
                 }
                 }
             }
