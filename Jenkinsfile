@@ -14,10 +14,10 @@ pipeline {
                     echo "Yarn installed"
                 }
                 dir('server'){
-                    bat 'yarn run build'
+                    bat 'npm run build'
                 }
                 dir('party-owl'){
-                    bat 'yarn run build'
+                    bat 'npm run build'
                 }
             }
         }
@@ -25,7 +25,7 @@ pipeline {
         stage('Test'){
             steps{
                 dir('party-owl'){
-                    bat 'yarn test'
+                    bat 'npm test'
                 }
             }
         }
