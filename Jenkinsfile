@@ -13,11 +13,9 @@ pipeline {
                 nodejs('Node@16'){
                     dir('server'){
                         bat 'yarn install'
-                        bat 'yarn run-script build'
                     }
                     dir('party-owl'){
                         bat 'yarn install'
-                        bat 'yarn run-script build'
                 }
                 }
             }
@@ -26,7 +24,7 @@ pipeline {
         stage('Test'){
             steps{
                 dir('party-owl'){
-                    bat 'npm test'
+                    bat 'yarn test'
                 }
             }
         }
