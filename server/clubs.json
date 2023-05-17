@@ -1,273 +1,304 @@
 {
-  "clubs"  :[ {
-        "name": "Club X",
-        "address": "123 Main St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] ,
-        "artist": "DJ A",
-        "entry_charges": 500
-},
-{ 
-        "name": "Club Y",
-        "address": "456 Oak St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ B",
-        "entry_charges": 700
-    },
- {
-        "name": "Club Z",
-        "address": "789 Maple St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ C",
-        "entry_charges": 1000
-    } , 
- {
-        "name": "Club X",
-        "address": "123 Main St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ A",
-        "entry_charges": 500
-    },
- {
-        "name": "Club Y",
-        "address": "456 Oak St, Bangalore",
-        "city" : "Bengaluru" ,  
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ B",
-        "entry_charges": 700
-    },
- {
-        "name": "Club Z",
-        "address": "789 Maple St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ C",
-        "entry_charges": 1000
-    },
- {
-        "name": "Club X",
-        "address": "123 Main St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ A",
-        "entry_charges": 500
-    },
- {
-        "name": "Club Y",
-        "address": "456 Oak St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ B",
-        "entry_charges": 700
-    },
- {
-        "name": "Club Z",
-        "address": "789 Maple St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ C",
-        "entry_charges": 1000
-    },
-     {
-        "name": "Club X",
-        "address": "123 Main St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ A",
-        "entry_charges": 500
-    },
-     {
-        "name": "Club Y",
-        "address": "456 Oak St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ B",
-        "entry_charges": 700
-    },
-     {
-        "name": "Club Z",
-        "address": "789 Maple St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ C",
-        "entry_charges": 1000
-    },
-     {
-        "name": "Club X",
-        "address": "123 Main St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ A",
-        "entry_charges": 500
-    },
-     {
-        "name": "Club Y",
-        "address": "456 Oak St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ B",
-        "entry_charges": 700
-    },
-     {
-        "name": "Club Z",
-        "address": "789 Maple St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ C",
-        "entry_charges": 1000
-    },
-     {
-        "name": "Club X",
-        "address": "123 Main St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ A",
-        "entry_charges": 500
-    },
-     {
-        "name": "Club Y",
-        "address": "456 Oak St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ B",
-        "entry_charges": 700
-    },
-     {
-        "name": "Club Z",
-        "address": "789 Maple St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ C",
-        "entry_charges": 1000
-    },
-     {
-        "name": "Club X",
-        "address": "123 Main St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ A",
-        "entry_charges": 500
-    },
-     {
-        "name": "Club Y",
-        "address": "456 Oak St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ B",
-        "entry_charges": 700
-    },
-     {
-        "name": "Club Z",
-        "address": "789 Maple St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ C",
-        "entry_charges": 1000
-    },
-     {
-        "name": "Club X",
-        "address": "123 Main St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ A",
-        "entry_charges": 500
-    },
-     {
-        "name": "Club Y",
-        "address": "456 Oak St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ B",
-        "entry_charges": 700
-    },
-     {
-        "name": "Club Z",
-        "address": "789 Maple St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ C",
-        "entry_charges": 1000
-    },
-     {
-        "name": "Club X",
-        "address": "123 Main St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ A",
-        "entry_charges": 500
-    },
-     {
-        "name": "Club Y",
-        "address": "456 Oak St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ B",
-        "entry_charges": 700
-    },
-     {
-        "name": "Club Z",
-        "address": "789 Maple St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ C",
-        "entry_charges": 1000
-    },
-     {
-        "name": "Club X",
-        "address": "123 Main St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ A",
-        "entry_charges": 500
-    },
-     {
-        "name": "Club Y",
-        "address": "456 Oak St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ B",
-        "entry_charges": 700
-    },
-     {
-        "name": "Club Z",
-        "address": "789 Maple St, Bangalore",
-        "city" : "Bengaluru" , 
-        "availability" : 20 ,
-        "images":["https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"] , 
-        "artist": "DJ C",
-        "entry_charges": 1000
-    }
-]}
-
+    "clubs"  :[ {
+          "name": "Club X",
+          "description": "This is Club X, a popular night club in Bangalore.",
+          "address": "123 Main St, Indiranagar",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/2114365/pexels-photo-2114365.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/801863/pexels-photo-801863.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/1150988/pexels-photo-1150988.jpeg?auto=compress&cs=tinysrgb&w=1600"] ,
+          "artist": "DJ A",
+          "entry_charges": 500
+  },
+  { 
+          "name": "Club Y",
+          "description": "Club Y is known for its high-energy atmosphere and top DJs.",
+          "address": "456 Oak St, Electronic City",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/342521/pexels-photo-342521.jpeg?auto=compress&cs=tinysrgb&h=566.525&fit=crop&w=633.175&dpr=1", "https://images.pexels.com/photos/342521/pexels-photo-342521.jpeg?auto=compress&cs=tinysrgb&h=566.525&fit=crop&w=633.175&dpr=1", "https://images.pexels.com/photos/1587927/pexels-photo-1587927.jpeg?auto=compress&cs=tinysrgb&w=1600"] , 
+          "artist": "DJ B",
+          "entry_charges": 700
+      },
+   {
+          "name": "Club Z",
+          "description": "Club Z is the place to be if you want to dance all night long.",
+          "address": "789 Maple St, Whitefield",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/219095/pexels-photo-219095.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/2240763/pexels-photo-2240763.jpeg?auto=compress&cs=tinysrgb&w=1600"] , 
+          "artist": "DJ C",
+          "entry_charges": 1000
+      } , 
+      {
+          "name": "Club X0",
+          "description": "This is Club X0, a popular night club in Bangalore.",
+          "address": "123 Main St, Indiranagar",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/1426620/pexels-photo-1426620.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/3172566/pexels-photo-3172566.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/2240771/pexels-photo-2240771.jpeg?auto=compress&cs=tinysrgb&w=1600"] ,
+          "artist": "DJ A",
+          "entry_charges": 500
+  },
+  { 
+          "name": "Club Y0",
+          "description": "Club Y0 is known for its high-energy atmosphere and top DJs.",
+          "address": "456 Oak St, JP Nagar",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/941864/pexels-photo-941864.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/1801106/pexels-photo-1801106.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://www.pexels.com/photo/closeup-photo-of-clear-long-stem-wine-glass-724259/"] , 
+          "artist": "DJ B",
+          "entry_charges": 700
+      },
+   {
+          "name": "Club Z0",
+          "description": "Club Z0 is the place to be if you want to dance all night long.",
+          "address": "789 Maple St, Whitefield",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://www.pexels.com/photo/closeup-photo-of-clear-long-stem-wine-glass-724259/", "https://www.pexels.com/photo/closeup-photo-of-clear-long-stem-wine-glass-724259/", "https://images.pexels.com/photos/341858/pexels-photo-341858.jpeg?auto=compress&cs=tinysrgb&w=1600"] , 
+          "artist": "DJ C",
+          "entry_charges": 1000
+      },
+      {
+          "name": "Club XA",
+          "description": "This is Club XA, a popular night club in Bangalore.",
+          "address": "123 Main St, Indiranagar",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/788824/pexels-photo-788824.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/1154189/pexels-photo-1154189.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/274192/pexels-photo-274192.jpeg?auto=compress&cs=tinysrgb&w=1600"] ,
+          "artist": "DJ A",
+          "entry_charges": 500
+  },
+  { 
+          "name": "Club YA",
+          "description": "Club YA is known for its high-energy atmosphere and top DJs.",
+          "address": "456 Oak St, JP Nagar",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/1677573/pexels-photo-1677573.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/844928/pexels-photo-844928.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/1267350/pexels-photo-1267350.jpeg?auto=compress&cs=tinysrgb&w=1600"] , 
+          "artist": "DJ B",
+          "entry_charges": 700
+      },
+   {
+          "name": "Club ZA",
+          "description": "Club ZA is the place to be if you want to dance all night long.",
+          "address": "789 Maple St, Whitefield",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/382297/pexels-photo-382297.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/2350325/pexels-photo-2350325.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/2350325/pexels-photo-2350325.jpeg?auto=compress&cs=tinysrgb&w=1600"] , 
+          "artist": "DJ C",
+          "entry_charges": 1000
+      } , 
+      {
+          "name": "Club XX",
+          "description": "This is Club XX, a popular night club in Bangalore.",
+          "address": "123 Main St, Indiranagar",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/1860668/pexels-photo-1860668.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/2123606/pexels-photo-2123606.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/2123606/pexels-photo-2123606.jpeg?auto=compress&cs=tinysrgb&w=1600"] ,
+          "artist": "DJ A",
+          "entry_charges": 500
+  },
+  { 
+          "name": "Club YY",
+          "description": "Club YY is known for its high-energy atmosphere and top DJs.",
+          "address": "456 Oak St, JP Nagar",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/849/people-festival-party-dancing.jpg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/849/people-festival-party-dancing.jpg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/858466/pexels-photo-858466.jpeg?auto=compress&cs=tinysrgb&w=1600"] , 
+          "artist": "DJ B",
+          "entry_charges": 700
+      },
+   {
+          "name": "Club ZZ",
+          "description": "Club ZZ is the place to be if you want to dance all night long.",
+          "address": "789 Maple St, Whitefield",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/858466/pexels-photo-858466.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/4722053/pexels-photo-4722053.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/2209519/pexels-photo-2209519.jpeg?auto=compress&cs=tinysrgb&w=1600"] , 
+          "artist": "DJ C",
+          "entry_charges": 1000
+      } , 
+      {
+          "name": "Club X1",
+          "description": "This is Club X1, a popular night club in Bangalore.",
+          "address": "123 Main St, Koramangala",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/736355/pexels-photo-736355.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/164745/pexels-photo-164745.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/164745/pexels-photo-164745.jpeg?auto=compress&cs=tinysrgb&w=1600"] ,
+          "artist": "DJ A",
+          "entry_charges": 500
+  },
+  { 
+          "name": "Club Y1",
+          "description": "Club Y1 is known for its high-energy atmosphere and top DJs.",
+          "address": "456 Oak St, JP Nagar",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/2919731/pexels-photo-2919731.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/1694900/pexels-photo-1694900.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/3536274/pexels-photo-3536274.jpeg?auto=compress&cs=tinysrgb&w=1600"] , 
+          "artist": "DJ B",
+          "entry_charges": 700
+      },
+   {
+          "name": "Club Z1",
+          "description": "Club Z1 is the place to be if you want to dance all night long.",
+          "address": "789 Maple St, Marathahalli",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/1047940/pexels-photo-1047940.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/219101/pexels-photo-219101.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/3394221/pexels-photo-3394221.jpeg?auto=compress&cs=tinysrgb&w=1600"] , 
+          "artist": "DJ C",
+          "entry_charges": 1000
+      } , 
+      {
+          "name": "Club X2",
+          "description": "This is Club X2, a popular night club in Bangalore.",
+          "address": "123 Main St, Koramangala",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://images.pexels.com/photos/433452/pexels-photo-433452.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/2566029/pexels-photo-2566029.jpeg?auto=compress&cs=tinysrgb&w=1600", "https://images.pexels.com/photos/2566029/pexels-photo-2566029.jpeg?auto=compress&cs=tinysrgb&w=1600"] ,
+          "artist": "DJ A",
+          "entry_charges": 500
+  },
+  { 
+          "name": "Club Y2",
+          "description": "Club Y2 is known for its high-energy atmosphere and top DJs.",
+          "address": "456 Oak St, HSR Layout",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://cdn.pixabay.com/photo/2015/11/22/19/04/crowd-1056764_640.jpg", "https://cdn.pixabay.com/photo/2015/11/22/19/04/crowd-1056764_640.jpg", "https://cdn.pixabay.com/photo/2015/04/28/15/10/dj-743802_640.jpg"] , 
+          "artist": "DJ B",
+          "entry_charges": 700
+      },
+   {
+          "name": "Club Z2",
+          "description": "Club Z2 is the place to be if you want to dance all night long.",
+          "address": "789 Maple St, Marathahalli",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://thumbs.dreamstime.com/b/nightclub-party-lightshow-18331890.jpg", "https://thumbs.dreamstime.com/b/nightclub-party-lightshow-18331890.jpg", "https://thumbs.dreamstime.com/b/dj-mixing-desk-nightclub-27629577.jpg"] , 
+          "artist": "DJ C",
+          "entry_charges": 1000
+      } , 
+      {
+          "name": "Club XB",
+          "description": "This is Club XB, a popular night club in Bangalore.",
+          "address": "123 Main St, Koramangala",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://thumbs.dreamstime.com/b/nightclub-crowd-dancing-people-confetti-other-stuff-95375273.jpg", "https://thumbs.dreamstime.com/b/nightclub-parties-dj-sound-equipment-122918961.jpg", "https://thumbs.dreamstime.com/b/nightclub-parties-dj-sound-equipment-122918961.jpg"] ,
+          "artist": "DJ A",
+          "entry_charges": 500
+  },
+  { 
+          "name": "Club YB",
+          "description": "Club YB is known for its high-energy atmosphere and top DJs.",
+          "address": "456 Oak St, HSR Layout",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://thumbs.dreamstime.com/b/nightclub-parties-dj-sound-equipment-122918961.jpg", "https://thumbs.dreamstime.com/b/nightclub-parties-dj-sound-equipment-122918961.jpg", "https://thumbs.dreamstime.com/b/nightclub-parties-dj-sound-equipment-122918961.jpg"] , 
+          "artist": "DJ B",
+          "entry_charges": 700
+      },
+   {
+          "name": "Club ZB",
+          "description": "Club ZB is the place to be if you want to dance all night long.",
+          "address": "789 Maple St, Marathahalli",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://thumbs.dreamstime.com/b/cafe-bar-nightclub-cafe-bar-nightclub-spherical-panorama-112117542.jpg", "https://thumbs.dreamstime.com/b/cafe-bar-nightclub-cafe-bar-nightclub-spherical-panorama-112117542.jpg", "https://thumbs.dreamstime.com/b/friends-partying-nightclub-toasting-drinks-group-friends-partying-nightclub-toasting-drinks-148121831.jpg"] , 
+          "artist": "DJ C",
+          "entry_charges": 1000
+      } , 
+      {
+          "name": "Club X3",
+          "description": "This is Club X3, a popular night club in Bangalore.",
+          "address": "123 Main St, Koramangala",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://thumbs.dreamstime.com/b/friends-partying-nightclub-toasting-drinks-group-friends-partying-nightclub-toasting-drinks-148121831.jpg", "https://thumbs.dreamstime.com/b/friends-partying-nightclub-toasting-drinks-group-friends-partying-nightclub-toasting-drinks-148121831.jpg", "https://thumbs.dreamstime.com/b/concert-crowd-confetti-dancing-lights-nice-colors-picture-people-nightclub-94901606.jpg"] ,
+          "artist": "DJ A",
+          "entry_charges": 500
+  },
+  { 
+          "name": "Club Y3",
+          "description": "Club Y3 is known for its high-energy atmosphere and top DJs.",
+          "address": "456 Oak St, HSR Layout",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://thumbs.dreamstime.com/b/dancing-pryzm-nightclub-night-out-112915126.jpg", "https://thumbs.dreamstime.com/b/bright-nightclub-purple-white-blue-laser-lights-cutting-smoke-machine-making-light-rainbow-patterns-dance-floor-150546288.jpg", "https://thumbs.dreamstime.com/b/nightclub-20506306.jpg"] , 
+          "artist": "DJ B",
+          "entry_charges": 700
+      },
+   {
+          "name": "Club Z3",
+          "description": "Club Z3 is the place to be if you want to dance all night long.",
+          "address": "789 Maple St, Sarjapur",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://thumbs.dreamstime.com/b/party-people-nightclub-18216289.jpg", "https://thumbs.dreamstime.com/b/nightclub-18043500.jpg", "https://thumbs.dreamstime.com/b/nightclub-18043500.jpg"] , 
+          "artist": "DJ C",
+          "entry_charges": 1000
+      } , 
+      {
+          "name": "Club XC",
+          "description": "This is Club XC, a popular night club in Bangalore.",
+          "address": "123 Main St, Electronic City",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://st.depositphotos.com/1732831/1261/i/450/depositphotos_12618786-stock-photo-dancing-in-outdoor-nightclub.jpg", "https://st2.depositphotos.com/1594308/7697/i/450/depositphotos_76974235-stock-photo-friends-dancing-at-disco.jpg", "https://st.depositphotos.com/1389715/3666/i/450/depositphotos_36667967-stock-photo-modern-night-club-in-european.jpg"] ,
+          "artist": "DJ A",
+          "entry_charges": 500
+  },
+  { 
+          "name": "Club YC",
+          "description": "Club YC is known for its high-energy atmosphere and top DJs.",
+          "address": "456 Oak St, Koramangala",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://st2.depositphotos.com/1389715/5406/i/450/depositphotos_54067911-stock-photo-beautiful-european-night-club-interior.jpg", "https://st.depositphotos.com/16122460/54077/i/450/depositphotos_540770618-stock-photo-creating-music-modern-console-mixer.jpg", "https://st.depositphotos.com/16122460/54077/i/450/depositphotos_540770618-stock-photo-creating-music-modern-console-mixer.jpg"] , 
+          "artist": "DJ B",
+          "entry_charges": 700
+      },
+   {
+          "name": "Club ZC",
+          "description": "Club ZC is the place to be if you want to dance all night long.",
+          "address": "789 Maple St, Sarjapur",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://st2.depositphotos.com/33173748/44062/i/450/depositphotos_440629590-stock-photo-nicky-romero-performing-sziget-budapest.jpg", "https://st.depositphotos.com/1053646/1770/i/600/depositphotos_17700789-stock-photo-dance-club.jpg", "https://st4.depositphotos.com/6046792/25042/i/450/depositphotos_250424330-stock-photo-dj-mixer-on-the-table.jpg"] , 
+          "artist": "DJ C",
+          "entry_charges": 1000
+      } , 
+      {
+          "name": "Club X4",
+          "description": "This is Club X4, a popular night club in Bangalore.",
+          "address": "123 Main St, Electronic City",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://st4.depositphotos.com/6046792/25042/i/450/depositphotos_250424330-stock-photo-dj-mixer-on-the-table.jpg", "https://st3.depositphotos.com/3971595/16713/i/450/depositphotos_167133858-stock-photo-silhouette-people-rock-show.jpg", "https://st3.depositphotos.com/12985790/17362/i/450/depositphotos_173626832-stock-photo-sound-mixer-with-microphone.jpg"] ,
+          "artist": "DJ A",
+          "entry_charges": 500
+  },
+  { 
+          "name": "Club Y4",
+          "description": "Club Y4 is known for its high-energy atmosphere and top DJs.",
+          "address": "456 Oak St, Koramangala",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://st3.depositphotos.com/12985790/17362/i/450/depositphotos_173626832-stock-photo-sound-mixer-with-microphone.jpg", "https://st3.depositphotos.com/12985790/17362/i/450/depositphotos_173626832-stock-photo-sound-mixer-with-microphone.jpg", "https://st3.depositphotos.com/12985790/17362/i/450/depositphotos_173621766-stock-photo-vinyl-microphone-and-headphones.jpg"] , 
+          "artist": "DJ B",
+          "entry_charges": 700
+      },
+   {
+          "name": "Club Z4",
+          "description": "Club Z4 is the place to be if you want to dance all night long.",
+          "address": "789 Maple St, Sarjapur",
+          "city" : "Bengaluru" , 
+          "availability" : 20 ,
+          "images":["https://st3.depositphotos.com/12985790/17362/i/450/depositphotos_173621766-stock-photo-vinyl-microphone-and-headphones.jpg", "https://st3.depositphotos.com/9999814/18013/i/450/depositphotos_180132072-stock-photo-happy-people-dance-in-nightclub.jpg", "https://static3.depositphotos.com/1000717/156/i/450/depositphotos_1566377-stock-photo-silhouettes-of-dancing-teenagers.jpg"] , 
+          "artist": "DJ C",
+          "entry_charges": 1000
+      }
+  ]}
+  
+  
