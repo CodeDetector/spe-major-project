@@ -14,10 +14,10 @@ pipeline {
                     echo "Yarn installed"
                 }
                 dir('server'){
-                    bat 'yarn start'
+                    bat 'yarn run build'
                 }
                 dir('party-owl'){
-                    bat 'yarn start'
+                    bat 'yarn run build'
                 }
             }
         }
