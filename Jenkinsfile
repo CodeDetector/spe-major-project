@@ -14,10 +14,10 @@ pipeline {
                     echo "Yarn installed"
                 }
                 dir('server'){
-                    bat 'npm run build'
+                    bat 'npm run-script build'
                 }
                 dir('party-owl'){
-                    bat 'npm run build'
+                    bat 'npm run-script build'
                 }
             }
         }
