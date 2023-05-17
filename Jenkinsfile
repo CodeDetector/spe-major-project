@@ -11,13 +11,12 @@ pipeline {
         stage('Build'){
             steps{
                 nodejs('Node@16'){
-                    echo "Yarn installed"
+                    dir('server'){
+                        bat 'npm run-script build'
+                    }
+                    dir('party-owl'){
+                        bat 'npm run-script build'
                 }
-                dir('server'){
-                    bat 'npm run-script build'
-                }
-                dir('party-owl'){
-                    bat 'npm run-script build'
                 }
             }
         }
