@@ -1,6 +1,6 @@
 pipeline { 
     agent any 
-    tools {nodejs "node"}
+    tools {nodejs "Node@16"}
     stages{
         stage('Pull Git'){
             steps{
