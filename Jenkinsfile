@@ -12,8 +12,8 @@ pipeline {
             steps{
                 nodejs('Node@16'){
                     dir('server'){
-                        bat 'npm install'
-                        bat 'npm run-script build'
+                        bat 'yarn install'
+                        bat 'yarn build'
                     }
                     dir('party-owl'){
                         bat 'npm install'
