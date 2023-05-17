@@ -10,8 +10,8 @@ pipeline {
 
         stage('Build'){
             steps{
-                (nodejs('Node@16')){
-                    echo("Yan installed")
+                nodejs('Node@16'){
+                    echo "Yarn installed"
                 }
                 dir('server'){
                     bat 'yarn start'
