@@ -12,7 +12,7 @@ const data = require('./clubs.json');
 const mongoose = require('mongoose');
 mongoose.Promise = global.Promise;
 
-const connectionString = "mongodb://127.0.0.1:27017/party-owl-db";
+const connectionString = "mongodb://mongo:27017/party-owl-db";
 
 mongoose.connect(connectionString , {useNewUrlParser  : true});
 
