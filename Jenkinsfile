@@ -4,7 +4,7 @@ pipeline {
     stages{
         stage('Pull Git'){
             steps{
-                git clone 'https://github.com/CodeDetector/spe-major-project.git'
+                git 'https://github.com/CodeDetector/spe-major-project.git'
             }
         }
 
