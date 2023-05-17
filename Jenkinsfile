@@ -8,13 +8,23 @@ pipeline {
             }
         }
 
-        stage('Build'){
+        stage('Build frontend'){
             steps{
+                (nodejs('Node@16')){
+                    echo("Yan installed")
+                }
                 dir('server'){
-                    bat "npm install -g yarn"
                     bat 'yarn start'
                 }
                 dir('party-owl'){
+                    bat 'yarn start'
+                }
+            }
+        }
+        stage('Build frontend'){
+            steps{
+                (){
+                    bat "npm install -g yarn"
                     bat 'yarn start'
                 }
             }
